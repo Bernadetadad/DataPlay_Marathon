@@ -3,7 +3,7 @@ MarathonAnalysis
 Bernadeta
 2018-10-01
 
-Import data. Runner's gender is in column "GROUP", if it starts with V, that's Male, if with M-female.
+Import data. Runner's gender is in column "GROUP", if it starts with V, that's male, if it starts with M that's female.
 
 ``` r
 library(ggplot2)
